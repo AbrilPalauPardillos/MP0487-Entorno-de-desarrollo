@@ -8,6 +8,7 @@
 <body>
 <h1>EJERCICIO 4:</h1>
 <?php
+
     $letters = array(
         "NOMBRE" => "Sara",
         "APELLIDO" => "Martinez",

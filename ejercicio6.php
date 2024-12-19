@@ -10,6 +10,7 @@
     <?php
     $notasEstudiantes = array ("Miguel" => 5,"Luís"=>7,"Marta"=>10,"Isabel"=>8,"Aitor"=>4,"Pepe"=>1);
     
+
     arsort($notasEstudiantes);
 
     echo "Notas de los estudiantes: ";

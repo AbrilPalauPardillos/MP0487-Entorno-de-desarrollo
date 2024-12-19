@@ -10,6 +10,7 @@
 $letters = "a,b,c,d,e,f"; // Cadena de texto
 
 // Convertir la cadena en un array usando explode
+
 $array = explode(",", $letters);
 
 // Ordenar el array en orden descendente

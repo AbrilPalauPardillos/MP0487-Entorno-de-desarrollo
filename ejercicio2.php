@@ -9,6 +9,7 @@
         <!-- INSERTAR EL TITULO DEL EJERCICIO -->
     <h1>EJERCICIO 2:</h1>
     <!-- CREAR EL PHP -->
+     
     <?php
         // CREAR EL ARRAY QUE CONTENGA LOS DATOS
     $datos = array(
