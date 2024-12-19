@@ -10,7 +10,6 @@ $inventario = [
         ['titulo' => 'Berserk Deluxe Edition 1', 'editorial' => 'Dark Horse', 'autor' => 'Kentaro Miura', 'idioma' => 'Japonés', 'precio' => 30, 'stock' => 12],
     ],
     // Puedes agregar más categorías y cómics según sea necesario
-
 ];
 
 

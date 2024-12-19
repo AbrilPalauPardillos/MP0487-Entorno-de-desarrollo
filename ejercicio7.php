@@ -12,7 +12,6 @@
 
 
 $media = array_sum($notasEstudiantes) / count($notasEstudiantes);
-
 echo "Media de las notas: " . number_format($media, 2) . "<br>";
 
 echo "Alumnos con nota por encima de la media: <br>";

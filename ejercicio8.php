@@ -10,7 +10,6 @@
 
     $notasEstudiantes = array ("Miguel" => 5,"Luís"=>7,"Marta"=>10,"Isabel"=>8,"Aitor"=>4,"Pepe"=>1);
 
-
 $nota_maxima = max($notasEstudiantes);
 $mejor_alumno = array_search($nota_maxima, $notasEstudiantes);
 

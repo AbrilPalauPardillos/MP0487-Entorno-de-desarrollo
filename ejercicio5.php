@@ -14,6 +14,7 @@ $letters = "a,b,c,d,e,f"; // Cadena de texto
 $array = explode(",", $letters);
 
 // Ordenar el array en orden descendente
+
 rsort($array);
 
 // Mostrar los elementos del array en el formato solicitado
